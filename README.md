@@ -16,12 +16,6 @@ The repository includes the following directories and files:
 - **/notebooks/**: Jupyter notebooks with code implementations for each topic.
 - **README.md**: Project documentation and overview.
 
-## Installation
-To set up the environment, install the necessary packages:
-```bash
-pip install -r requirements.txt
-```
-
 ## Course Objectives
 This collection showcases my progress in implementing and understanding fundamental machine learning techniques and tools across various topics and data types.
 
