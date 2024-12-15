@@ -6,9 +6,9 @@ This repository is a compilation of the coursework completed throughout the **Da
 
 ## Repository Structure
 The repository includes the following directories:
-- **/Supervised Learning/**
-- **/Unsupervised Learning/**
-- 
+- **Supervised Learning**
+- **Unsupervised Learning**
+  
 ## Course Objectives
 This collection showcases my progress in implementing and understanding fundamental machine learning techniques and tools across various topics and data types.
 
