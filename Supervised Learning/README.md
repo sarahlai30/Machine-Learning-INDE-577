@@ -37,13 +37,13 @@ The datasets used in this directory include:
   The Movies Dataset contains Movie information, including titles, genres, and release dates and the Ratings Dataset contains user ratings for different movies.
 * **Iris Dataset**
   
-  The iris dataset contains information about 3 species of iris flowers and their features.
+  The Iris dataset contains information about 3 species of iris flowers and their features.
 * **Diabetes Dataset**
   
-  The diabetes dataset contains medical data that relates various physiological features to the progression of diabetes.
+  The Diabetes dataset contains medical data that relates various physiological features to the progression of diabetes.
 * **Wine Dataset**
   
-  The wine dataset contains information about various chemical properties of wine samples, specifically from three different cultivars (types of wine) grown in Italy. The goal is to predict the type of wine based on its chemical composition.
+  The Wine dataset contains information about various chemical properties of wine samples, specifically from three different cultivars (types of wine) grown in Italy. The goal is to predict the type of wine based on its chemical composition.
 * **Digits Dataset**
 
   The Digits Dataset is a classic dataset designed to train and test algorithms for handwritten digit recognition. It is part of the sklearn.datasets module. Each data point represents an image of a digit (0-9) in a 8x8 grayscale grid, flattened into a vector of 64 features.
