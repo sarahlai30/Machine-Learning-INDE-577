@@ -44,6 +44,13 @@ The datasets used in this directory include:
 * Wine Dataset
   
   The wine dataset contains information about various chemical properties of wine samples, specifically from three different cultivars (types of wine) grown in Italy. The goal is to predict the type of wine based on its chemical composition.
+* Digits Dataset
+
+  The Digits Dataset is a classic dataset designed to train and test algorithms for handwritten digit recognition. It is part of the sklearn.datasets module. Each data point represents an image of a digit (0-9) in a 8x8 grayscale grid, flattened into a vector of 64 features.
+
+* California Housing Dataset
+
+  The California Housing Dataset contains information on housing prices in California. It is often used for supervised learning tasks to predict the median house price for different districts in California based on various socioeconomic and geographical features.
 
 ---
 
