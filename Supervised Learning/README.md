@@ -32,9 +32,9 @@ The datasets used in this directory include:
 * **Fashion MNIST Dataset**
   
   The Fashion MNIST Dataset consists of 70,000 grayscale images of fashion items.
-* **Movie Datasets**
+* **Movies with Ratings Datasets**
   
-  The Movies Dataset contains Movie information, including titles, genres, and release dates and the Ratings Dataset contains user ratings for different movies.
+  The Movies with Ratings Dataset contains Movie information, including titles, genres, and release dates and the user ratings for different movies.
 * **Iris Dataset**
   
   The Iris dataset contains information about 3 species of iris flowers and their features.
