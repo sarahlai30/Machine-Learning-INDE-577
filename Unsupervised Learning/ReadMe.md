@@ -1,5 +1,6 @@
 # Unsupervised Learning
 Unsupervised learning is a subset of machine learning that focuses on working with data that has no predefined labels or categories. Unlike supervised learning, where the outcomes or classifications are explicitly provided, unsupervised learning algorithms aim to uncover patterns, structures, and relationships within the data independently. This makes it a powerful approach for exploratory data analysis, where the primary objective is to understand the intrinsic structure of the dataset.
+
 ![image](https://github.com/user-attachments/assets/77eed916-bfc6-43d6-8a38-35cf780e4a2a)
 
 In artificial intelligence, unsupervised learning refers to a machine learning paradigm that operates without human-provided labels or supervision. Unlike supervised learning models, which rely on labeled data for training, unsupervised learning models are provided with raw, unlabeled data and tasked with discovering meaningful patterns and insights autonomously, without explicit guidance.
