@@ -22,10 +22,10 @@ The following algorithms are implemented in this directory:
 The following datasets are used for the above algorithms:
 
 ### **1. Mall Customers Dataset**
-- **Description:** The Mall Customers dataset contains data on customer spending behavior in a shopping mall. It includes demographic information and spending patterns.
+- The Mall Customers dataset contains data on customer spending behavior in a shopping mall. It includes demographic information and spending patterns.
 
 ### **2. Wine Dataset**
-- **Description:** The Wine dataset contains 13 chemical properties of wines derived from the same Italian region. Wines are categorized into three classes based on grape varieties.
+- The Wine dataset contains 13 chemical properties of wines derived from the same Italian region. Wines are categorized into three classes based on grape varieties.
 
 ---
 
