@@ -8,14 +8,14 @@ Supervised learning is a type of machine learning that uses labeled datasets to 
 
 The following supervised learning algorithms are covered in this directory:
 
-* The Perceptron: A basic neural network for binary classification using a linear decision boundary.
-* Linear Regression: A regression model that fits a line through data points to predict continuous target values.
-* Logistic Regression: A classification algorithm that predicts probabilities for categorical outcomes using a logistic function.
-Neural Networks: Multi-layered networks capable of learning complex patterns through backpropagation.
-* K-Nearest Neighbors (KNN): A classification algorithm that assigns labels based on the majority class of nearby points.
-* Decision Trees / Regression Trees: Models that split the data into branches based on feature thresholds for both classification and regression tasks.
-* Random Forests: An ensemble of decision trees used to improve model accuracy through bagging.
-* Other Ensemble Methods (including Boosting): Algorithms that combine multiple models to reduce variance and bias for better prediction performance.
+* **The Perceptron**: A basic neural network for binary classification using a linear decision boundary.
+* **Linear Regression**: A regression model that fits a line through data points to predict continuous target values.
+* **Logistic Regression**: A classification algorithm that predicts probabilities for categorical outcomes using a logistic function.
+* **Neural Networks**: Multi-layered networks capable of learning complex patterns through backpropagation.
+* **K-Nearest Neighbors (KNN)**: A classification algorithm that assigns labels based on the majority class of nearby points.
+* **Decision Trees / Regression Trees**: Models that split the data into branches based on feature thresholds for both classification and regression tasks.
+* **Random Forests**: An ensemble of decision trees used to improve model accuracy through bagging.
+* **Ensemble Methods (including Boosting)**: Algorithms that combine multiple models to reduce variance and bias for better prediction performance.
 
 ---
 
