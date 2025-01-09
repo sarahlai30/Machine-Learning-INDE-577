@@ -4,7 +4,7 @@
 ---
 
 ## **Overview**
-This repository contains a comprehensive collection of coursework completed during the **Data Science and Machine Learning** course. It features a wide range of machine learning techniques applied to real-world datasets, leveraging popular libraries such as **scikit-learn**, **Keras**, and **TensorFlow 2**.
+This repository contains a comprehensive collection of coursework completed during the **Data Science and Machine Learning** course. It features a wide range of machine learning techniques applied to real-world datasets, using libraries such as **scikit-learn**, **Keras**, and **tensorflow2**.
 
 ---
 
